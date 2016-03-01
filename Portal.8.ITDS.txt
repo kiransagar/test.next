@@ -1,0 +1,21 @@
+Portal + DB2 - wpmintel60.in.ibm.com
+
+Federated ITDS 6.3 - wpmintel61.in.ibm.com
+
+Portal userid - uid=wpsadmin,cn=users,dc=ibm,dc=com/wpsadmin
+
+ITDS 6.3 userid - ldapusr1/Portal4u
+
+
+config 4
+
+for mounting the msa.. use this 
+mount -t cifs //rtpmsai.raleigh.ibm.com/msa /mnt -o username=kirankb,uid=root
+
+b/build.portal/builds/wp7001.cf18/wp7001CF18_001_12/PM73171.jar
+
+/mnt/projects/b/build.portal/builds/wp700.pui/20120816_1150
+/mnt/projects/b/build.portal/builds/wp7001.cf17/wp7001CF17_001_04
+
+
+
